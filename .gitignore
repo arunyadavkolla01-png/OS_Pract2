@@ -1,0 +1,16 @@
+*.o
+*.out
+a.out
+prog1
+prog2
+prog3
+prog4
+prog5
+prog6_fifo_server
+prog6_fifo_client
+signal_handler
+prog7_linuxaddr
+prog8_dynamicmemory
+memory_demo
+cow_demo
+lsgrep
